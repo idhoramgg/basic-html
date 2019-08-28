@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 300px;
+  width: 100%;
+  background-color: lightblue;
+  border: 2px solid salmon;
+}
+
